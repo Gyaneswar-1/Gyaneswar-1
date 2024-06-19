@@ -1,4 +1,4 @@
-![MasterHead](https://wallpapercave.com/wp/wp5383881.jpg)
+![MasterHead](https://images.app.goo.gl/AgB3oSxPv7MRZ2kF9)
 <h1 align="center">Hi 👋, I'm Gyaneswar_Rout</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/011/153/366/original/3d-web-developer-working-on-project-illustration-png.png")>
