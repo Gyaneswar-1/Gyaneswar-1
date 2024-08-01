@@ -1,5 +1,5 @@
 
-![MasterHead](https://free4kwallpapers.com/uploads/originals/2018/01/30/blade-runner-2049-ultrawide-wallpaper.jpg)
+![MasterHead](https://raw.githubusercontent.com/Gyaneswar-1/Gyaneswar-1/main/lade-runner-2049-ultrawide-wallpaper.png)
 <h1 align="center">Hi 👋, I'm Gyaneswar_Rout</h1>
 <h3 align="center">भारतस्य एकः भावुकः विकासकः</h3>
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/011/153/366/original/3d-web-developer-working-on-project-illustration-png.png")>
