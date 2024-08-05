@@ -2,7 +2,7 @@
 ![MasterHead](https://raw.githubusercontent.com/Gyaneswar-1/Gyaneswar-1/main/myLifeBeLike.png)
 <h1 align="center">Hi 👋, I'm Gyaneswar_Rout</h1>
 <h3 align="center">Web developer</h3>
-<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/011/153/366/original/3d-web-developer-working-on-project-illustration-png.png")>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Gyaneswar-1/Gyaneswar-1/main/mernChakra.png")>
 
 
 - 🌱 I’m currently learning **MERN**
