@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Gyaneswar-1/Gyaneswar-1/main/mernChakra.png")>
 
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **PERN**
 
 - 💬 Ask me about **React**
 
