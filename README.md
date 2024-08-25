@@ -12,7 +12,9 @@
 - 📫 How to reach me **gyaneswarrout12345@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
+<a href="https://auth.geeksforgeeks.org/user/@gyaneswarrva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@gyaneswarrva" height="30" width="40" /></a>
 <a href="https://twitter.com/gyaneswarrout69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gyaneswarrout69" height="30" width="40" /></a> 
 <a href="https://linkedin.com/in/gyaneswar-rout-16aa4925a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gyaneswar-rout-16aa4925a" height="30" width="40" /></a>
 
