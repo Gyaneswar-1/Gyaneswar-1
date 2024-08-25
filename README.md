@@ -2,7 +2,7 @@
 ![MasterHead](https://raw.githubusercontent.com/Gyaneswar-1/Gyaneswar-1/main/myLifeBeLike.png)
 <h1 align="center">Hi 👋, I'm Gyaneswar_Rout</h1>
 <h3 align="center">Web developer</h3>
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/520892af0f5de589e14c7433225c88c4/6eecbcf2c186905b-83/s500x750/c19a720da256bf3a929ffedab01139c554a53978.gif")>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif")>
 
 
 - 🌱 I’m currently learning **PERN**
