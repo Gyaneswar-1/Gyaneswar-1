@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **gyaneswarrout12345@gmail.com**
 
+- 🤝 I’m looking for Job
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
