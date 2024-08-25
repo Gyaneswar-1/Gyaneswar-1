@@ -1,6 +1,6 @@
 
 ![MasterHead](https://raw.githubusercontent.com/Gyaneswar-1/Gyaneswar-1/main/myLifeBeLike.png)
-<h1 align="center">Hi 👋, I'm Gyaneswar_Rout</h1>
+<h1 align="center">Hi 👋, I'm Gyãne$war_Röut</h1>
 <h3 align="center">Web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif")>
 
