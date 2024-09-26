@@ -16,6 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fhhg&label=Profile%20views&color=0e75b6&style=flat" alt="fhhg" /> </p>
+
+
 <p align="left">
 <a href="https://auth.geeksforgeeks.org/user/@gyaneswarrva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@gyaneswarrva" height="30" width="40" /></a>
 <a href="https://twitter.com/gyaneswarrout69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gyaneswarrout69" height="30" width="40" /></a> 
