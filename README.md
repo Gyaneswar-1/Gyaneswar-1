@@ -5,6 +5,7 @@
 
 ![MasterHead](https://raw.githubusercontent.com/Gyaneswar-1/Gyaneswar-1/main/myLifeBeLike.png)
 <h1 align="center" style="font-family: "Fira Code"" >Hi 👋, I'm Gyaneswar_Rout</h1>
+<h1 align="center" style="font-family: 'Fira Code', monospace;">Hi 👋, I'm Gyaneswar_Rout</h1>
 <h3 align="center">Web developer</h3>
 
 
