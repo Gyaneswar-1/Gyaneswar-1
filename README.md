@@ -1,19 +1,15 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap" rel="stylesheet">
-
 
 ![MasterHead](https://raw.githubusercontent.com/Gyaneswar-1/Gyaneswar-1/main/myLifeBeLike.png)
-<h1 align="center" style="font-family: "Fira Code"" >Hi 👋, I'm Gyaneswar_Rout</h1>
-<h1 align="center" style="font-family: 'Fira Code', monospace;">Hi 👋, I'm Gyaneswar_Rout</h1>
-<h3 align="center">Web developer</h3>
+
+<h1 align="center">Hi 👋, I'm Gyaneswar_Rout</h1>
+<h2 align="center">Web developer</h2>
 
 
 - 🌱 I’m currently learning **PERN**
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **gyaneswarrout12345@gmail.com**
+- 📫 How to reach me: **gyaneswarrout12345@gmail.com**
 
 - 🤝 I’m looking for Job
 
