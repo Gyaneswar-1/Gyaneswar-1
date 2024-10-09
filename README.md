@@ -1,9 +1,11 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap" rel="stylesheet">
+
 
 ![MasterHead](https://raw.githubusercontent.com/Gyaneswar-1/Gyaneswar-1/main/myLifeBeLike.png)
-<h1 align="center">Hi 👋, I'm Gyãne$war_Röut</h1>
+<h1 align="center" style="font-family: "Fira Code"" >Hi 👋, I'm Gyaneswar_Rout</h1>
 <h3 align="center">Web developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fd/65/38/fd65388665c12f7b22d21955f4dc35c5.gif")>
-
 
 
 - 🌱 I’m currently learning **PERN**
