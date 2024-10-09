@@ -20,11 +20,11 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
 
 
 <p align="left">
-🌐Socials:
+
+# 🌐Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gyaneswar-rout-16aa4925a/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@gyaneswarrout12345) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/GyaneswarRout69)
 
