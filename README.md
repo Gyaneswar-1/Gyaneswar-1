@@ -1,6 +1,4 @@
 
-![MasterHead](https://raw.githubusercontent.com/Gyaneswar-1/Gyaneswar-1/main/myLifeBeLike.png)
-
 <h1 align="center">Hi 👋, I'm Gyaneswar_Rout</h1>
 <h2 align="center">Web developer</h2>
 
@@ -12,9 +10,6 @@
 - 📫 How to reach me: **gyaneswarrout12345@gmail.com**
 
 - 🤝 I’m looking for Job
-
-
-
 
 
 <p align="left">
