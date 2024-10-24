@@ -1,6 +1,5 @@
 
 ![MasterHead](https://raw.githubusercontent.com/Gyaneswar-1/Gyaneswar-1/main/myLifeBeLike.png)
-![MasterHead](https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif)
 
 <h1 align="center">Hi 👋, I'm Gyaneswar_Rout</h1>
 <h2 align="center">Web developer</h2>
