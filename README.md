@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Gyaneswar_Rout</h1>
+<h1 align="center">Hi ✨, I'm Gyaneswar_Rout</h1>
 <h2 align="center">Web developer</h2>
 
 
