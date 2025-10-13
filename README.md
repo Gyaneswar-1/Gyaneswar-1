@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PERN**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **How i am still alive**
 
 - 📫 How to reach me: **gyaneswarrout12345@gmail.com**
 
